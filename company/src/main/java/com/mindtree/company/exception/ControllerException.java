@@ -24,12 +24,12 @@ public class ControllerException extends Exception{
 
 	public ControllerException(String arg0) {
 		super(arg0);
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public ControllerException(Throwable arg0) {
 		super(arg0);
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	
